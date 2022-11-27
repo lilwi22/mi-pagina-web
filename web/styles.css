@@ -1,0 +1,46 @@
+.header {
+    background-color:darkslateblue;
+    margin-top: -2.5rem;
+    margin-left: -0.5rem;
+    position: fixed;
+    width: 100%;
+    opacity: 75%;
+}
+
+
+.title {
+    color: green;
+}
+
+body {
+    background-image: url(../../Downloads/dance-funny.gif);
+    background-size: repeat
+}
+
+h1 {
+    text-align: center;
+    color: goldenrod;
+    opacity: 100%;
+}
+.img {
+    display: flex;
+    justify-content: center;
+    margin: 2rem;
+}
+    
+.footer {
+    color: black;
+    bottom: 0;
+    position:fixed;
+    text-size-adjust:6rem;
+}    
+.minion{display: flex;
+justify-content: center;
+
+;}
+
+.boton{display: flex;
+    justify-content: center;
+    
+    ;}
+
